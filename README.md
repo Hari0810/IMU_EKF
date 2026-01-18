@@ -58,4 +58,7 @@ The Park-McLellan method for filter design is better than simpler alternatives, 
 
 ### FIR Filtered Data (with offsets):
 
+<img src="filtered_data.jpg" alt="data" width="200"/>
+
+
 ![](images/filtered_data.png)
