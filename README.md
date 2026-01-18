@@ -48,3 +48,14 @@ The coefficients were chosen to form a lowpass filter. The nature of a hand-test
 A low sampling frequency was used in order to more easily stay within ripple limits.
 
 The Park-McLellan method for filter design is better than simpler alternatives, as it can produce a narrower transition band for the same filter order.
+
+## Demo
+
+### High-frequency Gyro over DMA (960Hz):
+![](images/gyro.gif)
+
+### Accel + Gyro:
+
+### FIR Filtered Data (with offsets):
+
+![](images/filtered_data.png)
