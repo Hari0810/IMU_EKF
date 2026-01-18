@@ -61,4 +61,6 @@ The Park-McLellan method for filter design is better than simpler alternatives, 
 
 ### FIR Filtered Data (with offsets):
 
+Left column is raw data, right is filtered data. Note how in the right column there are no sudden jumps. 
+
 <img src="images/filtered_data.png" alt="data" width="500"/>
