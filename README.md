@@ -39,7 +39,7 @@ Still left to implement:
 
 http://t-filter.engineerjs.com - Tool used to derive coefficients
 
-![[Parks McLellan FIR Filter Design for EKF IMU-20260116205813227.webp]]
+![](images/filter.png)
 
 A relatively small number of taps was used given the relatively limited processing power. A claim made by Phil's lab is that anything more than 64 taps on an STM32F4 would be difficult to process.
 
