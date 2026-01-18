@@ -55,7 +55,9 @@ The Park-McLellan method for filter design is better than simpler alternatives, 
 
 <img src="images/gyro.gif" alt="data" width="200"/>
 
-### Accel + Gyro:
+### Accel + Gyro (120Hz):
+
+<img src="images/imu_data.gif" alt="data" width="200"/>
 
 ### FIR Filtered Data (with offsets):
 
