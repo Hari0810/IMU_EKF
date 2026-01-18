@@ -52,13 +52,11 @@ The Park-McLellan method for filter design is better than simpler alternatives, 
 ## Demo
 
 ### High-frequency Gyro over DMA (960Hz):
-![](images/gyro.gif)
+
+<img src="images/gyro.gif" alt="data" width="200"/>
 
 ### Accel + Gyro:
 
 ### FIR Filtered Data (with offsets):
 
-<img src="filtered_data.png" alt="data" width="200"/>
-
-
-![](images/filtered_data.png)
+<img src="images/filtered_data.png" alt="data" width="200"/>
