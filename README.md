@@ -21,7 +21,7 @@ Still left to implement:
 
 ### IMU Drivers (LSM.c, LSM.h)
 - IMU DMA drivers to obtain accelerometer and gyroscope raw values as soon as they are ready - less direct involvement from the processor
-- IMU in question (LSM6DS) has two interrupt pins
+- IMU in question (LSM6DS) has two interrupt pins, allowing for accelerometer and gyroscope to be treated separately
 
 ### Threads (main.c)
 - FreeRTOS threads were used to schedule the Predict and Update steps of the EKF
